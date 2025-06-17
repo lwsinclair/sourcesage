@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sarathsp06-sourcesage-badge.png)](https://mseep.ai/app/sarathsp06-sourcesage)
+
 # SourceSage: Efficient Code Memory for LLMs
 <a href="https://glama.ai/mcp/servers/@sarathsp06/sourcesage">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@sarathsp06/sourcesage/badge" />
